@@ -1,6 +1,5 @@
-name: Set up WireGuard
+name: action_sample_wg_random
 description: Set up WireGuard connection
-
 runs:
   using: composite
   steps:
