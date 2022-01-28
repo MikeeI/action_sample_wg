@@ -9,7 +9,7 @@ runs:
         sudo bash warp.sh install
         sudo bash warp.sh proxy
         sudo bash warp.sh status
-        echo done 
+        echo "34673"
       shell: bash
 branding:
   icon: star
