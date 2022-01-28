@@ -4,11 +4,11 @@ runs:
   using: composite
   steps:
     - run: |
-      sudo git clone https://github.com/P3TERX/warp.sh
-      cd warp.sh
-      sudo bash warp.sh install
-      sudo bash warp.sh proxy
-      sudo bash warp.sh status
+        sudo git clone https://github.com/P3TERX/warp.sh
+        cd warp.sh
+        sudo bash warp.sh install
+        sudo bash warp.sh proxy
+        sudo bash warp.sh status
     
 branding:
   icon: star
